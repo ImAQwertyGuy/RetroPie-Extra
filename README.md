@@ -286,7 +286,7 @@ I'll have a note at the end with some Info about it. if there is NO note or [X] 
 - [X] - `golang-1.17.sh` - Golang v1.17 binary install **Installs fine**
 - [X] - `gparted.sh` - partition editing application **Installs Runs fine**
 - [X] - `joystick-selection.sh` - Set controllers for RetroArch players 1-4. **Installs Does what it needs too**
-- [X] - `kodi-extra.sh` - Kodi Media Player 16 with controller support as a separate system - **Installs, works great**
+- [ ] - `kodi-extra.sh` - Kodi Media Player From the Debian Bookworm repo, instead of the old pipplware repo with controller support as a separate system - **Untested**
 - [X] - `kweb.sh` - Minimal kiosk web browser - **Installs Runs fine**
 - [X] - `librecad.sh` - librecad open-source 2d cad - **Installs Runs fine**
 - [X] - `libreoffice.sh` - Open source office suite - **Installs Runs fine**
@@ -302,7 +302,7 @@ I'll have a note at the end with some Info about it. if there is NO note or [X] 
 - [X] - `videolan.sh` - VLC media player - **Installs Runs fine**
 - [X] - `weechat.sh` - Console IRC Client - **Installs Runs fine, dont know how to quit**
 
-### Removed broken scripts to RetroPie-Extra-unstable
+### I moved these broken scripts to RetroPie-Extra-unstable
 
 - [X] - `supermodel.sh` - Sega Model 3 Arcade emulator  - **Installs Does play, test game are slow**
 - [ ] - `lr-craft.sh` - Minecraft engine  - **Installs Fails to start**
